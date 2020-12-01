@@ -1,6 +1,4 @@
----
-title: "Pastís de poma"
----
+# Pastís de poma
 
 
 ## Ingredients

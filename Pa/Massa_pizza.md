@@ -1,6 +1,4 @@
----
-title: "Massa per a pizza amb massa mare"
----
+# Massa per a pizza amb massa mare
 
 ## Ingredients
 

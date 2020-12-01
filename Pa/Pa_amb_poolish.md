@@ -1,6 +1,4 @@
----
-title: "Pa elaborat amb poolish"
----
+# Pa elaborat amb poolish
 
 ## Ingredients
 
