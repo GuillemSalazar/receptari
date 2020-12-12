@@ -1,5 +1,3 @@
-# *Receptari* de Guillem Salazar
-
 Recull de receptes de cuina **en permanent construcció** iniciat al confinament pel COVID-19 (Març 2019)
 
 ## Pa
