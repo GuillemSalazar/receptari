@@ -1,4 +1,6 @@
-# Pa elaborat amb massa mare
+---
+title: "Pa elaborat amb massa mare"
+---
 
 ## Ingredients
 
