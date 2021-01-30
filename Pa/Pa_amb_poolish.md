@@ -1,5 +1,3 @@
-# Pa elaborat amb poolish
-
 ## Ingredients
 
 **PAR AL POOLISH:**  
